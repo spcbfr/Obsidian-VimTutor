@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "c9032ee2c64bf7c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "83a6220c065f5e5f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lesson 3.4 - More Changes Using C.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a2ecfc6ae72b8a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e1ee4fa251e28a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f780cd58a72c5cd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1918495156ce3cfe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          },
+          {
+            "id": "6cadd00c3321a252",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 322.0067138671875
+  },
+  "right": {
+    "id": "6e2ce8d0c6e0f216",
+    "type": "split",
+    "children": [
+      {
+        "id": "d89307bd0ecd9d53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89170e3603d3a2ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lesson 3.4 - More Changes Using C.md"
+              }
+            }
+          },
+          {
+            "id": "3cbb2f541ff48ba5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lesson 3.4 - More Changes Using C.md"
+              }
+            }
+          },
+          {
+            "id": "02cec9212437ba31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Lesson 3.4 - More Changes Using C.md",
+    "Lesson 1.3 - Text Editing - Deletion.md",
+    "notes/Untitled.md",
+    "notes/keep in mind.md",
+    "Lesson 7.3 - Completion.md",
+    "Lesson 7.2 - Create A Startup Script.md",
+    "Lesson 7.1 - Getting Help.md",
+    "Lesson 6.6 - Lesson 6 Summary.md",
+    "Lesson 6.5 - Set Option.md",
+    "Lesson 6.4 - Copy And Paste Text.md"
+  ]
+}

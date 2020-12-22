@@ -1,0 +1,1 @@
+Mac gave me an issue with pressing hjkl multiple times. I saved the solution somewhere, and talked about it in a DM in the obsidian forum.
