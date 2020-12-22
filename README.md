@@ -1,5 +1,5 @@
+# How to install
 This is a modification of vimtutor made for obsidian.
-
 
 # What Is Vimtutor
 vimtutor is usually presented as one long file which comes with a new installation of vim.
