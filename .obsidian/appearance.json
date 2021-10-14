@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Wasp",
+  "enabledCssSnippets": [
+    "multi-level-lines",
+    "general"
+  ],
+  "translucency": false,
+  "baseFontSize": 16
+}
