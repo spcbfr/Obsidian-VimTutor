@@ -18,7 +18,7 @@ Obsidian has a way to activate Vim key bindings.
 you can turn it on by going to:
 `Settings > Editor > Vim Key Bindings`
 
-vimtutor helped get started with vim in just one week. If it wasn't for vimtutor I would have given up on vim straight away. Vim now allows me not only to format text extremely fast, but it has quickly become a new way to think about shortcuts.
+vimtutor helped me get started with vim in just one week. If it wasn't for vimtutor I would have given up on vim straight away. Vim now allows me not only to format text extremely fast, but it has quickly become a new way to think about shortcuts.
 
 The main reason why I decided to give Obsidian was because it supported vim-mode.
 
